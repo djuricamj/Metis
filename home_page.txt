@@ -6,3 +6,5 @@ Nav:
 Login:
 Register:
 Welcome to Metis
+
+Contact us hello@metis.com
